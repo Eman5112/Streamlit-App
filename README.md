@@ -7,7 +7,7 @@
 
 *Features
 
-        -Data Analysis: Perform in-depth analysis using various statistical and machine learning tools to extract meaningful insights.
+        -Data Analysis: Perform in-depth analysis using various statistical to extract meaningful insights.
 
         -RAG Integration: Leverage Retrieval-Augmented Generation to integrate external knowledge sources for contextualized data generation and retrieval.
 
